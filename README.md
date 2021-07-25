@@ -6,5 +6,4 @@ Andamento -> <strong>100%</strong> - Online
 
 JavaScript </br>
 HTML5 | CSS3 </br>
-Codificação: -&lowast;- coding: utf-8 -&lowast;- </br>
 pt-BR </br> 
